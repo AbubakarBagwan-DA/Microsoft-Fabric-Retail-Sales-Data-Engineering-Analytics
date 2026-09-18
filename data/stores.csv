@@ -1,0 +1,19 @@
+StoreID,StoreName,City,State,Region
+STORE0001,RetailCo Store 1,Mumbai,Maharashtra,West
+STORE0002,RetailCo Store 2,Pune,Maharashtra,West
+STORE0003,RetailCo Store 3,Bengaluru,Karnataka,South
+STORE0004,RetailCo Store 4,Mysuru,Karnataka,South
+STORE0005,RetailCo Store 5,Ahmedabad,Gujarat,West
+STORE0006,RetailCo Store 6,Surat,Gujarat,West
+STORE0007,RetailCo Store 7,Delhi,Delhi,North
+STORE0008,RetailCo Store 8,Jaipur,Rajasthan,North
+STORE0009,RetailCo Store 9,Hyderabad,Telangana,South
+STORE0010,RetailCo Store 10,Chennai,Tamil Nadu,South
+STORE0011,RetailCo Store 11,Kolkata,West Bengal,East
+STORE0012,RetailCo Store 12,Nagpur,Maharashtra,West
+STORE0013,RetailCo Store 13,Lucknow,Uttar Pradesh,North
+STORE0014,RetailCo Store 14,Indore,Madhya Pradesh,Central
+STORE0015,RetailCo Store 15,Bhopal,Madhya Pradesh,Central
+STORE0016,RetailCo Store 16,Kochi,Kerala,South
+STORE0017,RetailCo Store 17,Coimbatore,Tamil Nadu,South
+STORE0018,RetailCo Store 18,Bhubaneswar,Odisha,East

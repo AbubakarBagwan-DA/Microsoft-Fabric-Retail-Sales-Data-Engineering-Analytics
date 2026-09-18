@@ -1,0 +1,151 @@
+CustomerID,CustomerName,Gender,City,State,Country,SignupDate
+CUST00001,Aditya Khan,Male,Nagpur,Maharashtra,India,2025-11-23
+CUST00002,Vikram Khan,Female,Mysuru,Karnataka,India,2025-05-10
+CUST00003,Vikram Khan,Female,Coimbatore,Tamil Nadu,India,2026-03-27
+CUST00004,Ananya Kulkarni,Female,Hyderabad,Telangana,India,2024-06-16
+CUST00005,Arjun Gupta,Male,Mumbai,Maharashtra,India,2024-08-06
+CUST00006,Neha Mishra,Female,Indore,Madhya Pradesh,India,2024-09-20
+CUST00007,Ananya Desai,Female,Kolkata,West Bengal,India,2025-09-02
+CUST00008,Ishaan Mishra,Male,,Tamil Nadu,India,2025-05-19
+CUST00009,Rahul Khan,Male,Surat,Gujarat,India,2025-09-29
+CUST00010,Rohan Joshi,Male,Nagpur,Maharashtra,India,2024-08-10
+CUST00011,Kavya Shah,Male,Bhopal,Madhya Pradesh,India,2025-11-21
+CUST00012,Vikram Iyer,Female,Kolkata,West Bengal,India,2026-03-19
+CUST00013,Rahul Verma,Male,Bhopal,Madhya Pradesh,India,2025-11-10
+CUST00014,Vihaan Nair,Male,Lucknow,Uttar Pradesh,India,2025-04-04
+CUST00015,Ananya Nair,Female,Lucknow,Uttar Pradesh,India,2026-05-29
+CUST00016,Rahul Shah,Male,Surat,Gujarat,India,2025-08-31
+CUST00017,Neha Kulkarni,Female,Nagpur,Maharashtra,India,2026-06-07
+CUST00018,Nisha Reddy,Male,Ahmedabad,Gujarat,India,2025-11-16
+CUST00019,Aarav Joshi,Male,Surat,Gujarat,India,2024-05-16
+CUST00020,Ishaan Nair,Male,Surat,Gujarat,India,2025-04-28
+CUST00021,Rahul Gupta,Male,Bhopal,Madhya Pradesh,India,2025-07-08
+CUST00022,Rohan Mehta,Female,Indore,Madhya Pradesh,India,2026-03-28
+CUST00023,Rahul Reddy,Female,Surat,Gujarat,India,2026-06-16
+CUST00024,Arjun Shah,Female,Hyderabad,Telangana,India,2025-02-19
+CUST00025,Rohan Iyer,Male,Bhopal,Madhya Pradesh,India,2024-01-09
+CUST00026,Rahul Nair,Female,Bhubaneswar,Odisha,India,2026-03-11
+CUST00027,Isha Desai,Male,Nagpur,Maharashtra,India,2024-05-08
+CUST00028,Rohan Khan,Male,Lucknow,Uttar Pradesh,India,2025-08-23
+CUST00029,Kavya Desai,Female,Bengaluru,Karnataka,India,2026-01-05
+CUST00030,Kabir Desai,Female,Nagpur,Maharashtra,India,2024-11-11
+CUST00031,Meera Nair,Male,Kochi,Kerala,India,2025-04-18
+CUST00032,Karan Sharma,Female,Kolkata,West Bengal,India,2024-12-18
+CUST00033,Vihaan Verma,Male,Kolkata,West Bengal,India,2024-04-15
+CUST00034,Kabir Reddy,Male,Chennai,Tamil Nadu,India,2024-08-08
+CUST00035,Vihaan Singh,Female,Kolkata,West Bengal,India,2024-07-14
+CUST00036,Rahul Verma,Male,Indore,Madhya Pradesh,India,2025-07-07
+CUST00037,Vikram Sharma,Female,Bengaluru,Karnataka,India,2026-03-11
+CUST00038,Vihaan Khan,Female,Nagpur,Maharashtra,India,2024-12-30
+CUST00039,Meera Joshi,Female,Surat,Gujarat,India,2026-03-06
+CUST00040,Rohan Khan,Female,Chennai,Tamil Nadu,India,2026-01-14
+CUST00041,Vikram Sharma,Female,Chennai,Tamil Nadu,India,2024-06-27
+CUST00042,Arjun Kulkarni,Female,Nagpur,Maharashtra,India,2024-10-16
+CUST00043,Nisha Shah,Male,Chennai,Tamil Nadu,India,2025-05-30
+CUST00044,Rohan Nair,Female,Indore,Madhya Pradesh,India,2026-04-12
+CUST00045,Ishaan Reddy,Male,Bengaluru,Karnataka,India,2024-01-14
+CUST00046,Kavya Mehta,Female,Bhubaneswar,Odisha,India,2024-04-17
+CUST00047,Ananya Kulkarni,Female,Kochi,Kerala,India,2024-10-01
+CUST00048,Isha Patel,Male,Bhopal,Madhya Pradesh,India,2025-07-16
+CUST00049,Aisha Shah,Female,Nagpur,Maharashtra,India,2024-04-22
+CUST00050,Kabir Iyer,Male,Coimbatore,Tamil Nadu,India,2025-06-10
+CUST00051,Meera Kulkarni,Female,Kochi,Kerala,India,2026-02-11
+CUST00052,Rahul Mehta,Male,Kolkata,West Bengal,India,2026-01-20
+CUST00053,Rohan Gupta,Male,Delhi,Delhi,India,2026-03-16
+CUST00054,Kabir Mishra,Female,Mysuru,Karnataka,India,2026-02-10
+CUST00055,Priya Desai,Female,Indore,Madhya Pradesh,India,2025-11-30
+CUST00056,Kabir Nair,Male,Chennai,Tamil Nadu,India,2024-08-08
+CUST00057,Kavya Khan,Male,Indore,Madhya Pradesh,India,2025-05-16
+CUST00058,Pooja Mehta,Female,Delhi,Delhi,India,2025-11-26
+CUST00059,Neha Shah,Female,Bengaluru,Karnataka,India,2026-02-18
+CUST00060,Ishaan Mishra,Female,Indore,Madhya Pradesh,India,2024-02-08
+CUST00061,Ananya Kulkarni,Female,Chennai,Tamil Nadu,India,2025-12-11
+CUST00062,Arjun Kulkarni,Male,Bhopal,Madhya Pradesh,India,2024-09-09
+CUST00063,Nisha Iyer,Male,Mysuru,Karnataka,India,2025-07-08
+CUST00064,Kabir Desai,Male,Ahmedabad,Gujarat,India,2025-04-13
+CUST00065,Nisha Shah,Female,Hyderabad,Telangana,India,2025-03-03
+CUST00066,Rahul Patel,Female,Surat,Gujarat,India,2025-04-16
+CUST00067,Ishaan Iyer,Female,Chennai,Tamil Nadu,India,2025-11-09
+CUST00068,Kavya Nair,Male,Hyderabad,Telangana,India,2024-01-05
+CUST00069,Rohan Joshi,Male,Mysuru,Karnataka,India,2024-09-12
+CUST00070,Arjun Patel,Female,Surat,Gujarat,India,2025-03-22
+CUST00071,Isha Kulkarni,Male,Ahmedabad,Gujarat,India,2025-06-01
+CUST00072,Priya Singh,Male,Chennai,Tamil Nadu,India,2025-11-23
+CUST00073,Aarav Nair,Male,Lucknow,Uttar Pradesh,India,2025-05-06
+CUST00074,Arjun Patel,Male,Jaipur,Rajasthan,India,2024-08-07
+CUST00075,Neha Shah,Female,Bhopal,Madhya Pradesh,India,2025-02-09
+CUST00076,Aditya Mishra,Female,Jaipur,Rajasthan,India,2024-02-24
+CUST00077,Priya Desai,Female,Nagpur,Maharashtra,India,2025-01-18
+CUST00078,Vikram Sharma,Female,Bhubaneswar,Odisha,India,2025-05-15
+CUST00079,Rahul Singh,Female,Ahmedabad,Gujarat,India,2025-10-02
+CUST00080,Vihaan Kulkarni,Female,Mumbai,Maharashtra,India,2025-02-18
+CUST00081,Rohan Iyer,Female,Nagpur,Maharashtra,India,2025-01-29
+CUST00082,Vihaan Mehta,Male,Surat,Gujarat,India,2024-10-27
+CUST00083,Priya Iyer,Female,Nagpur,Maharashtra,India,2025-08-15
+CUST00084,Isha Nair,Male,Mumbai,Maharashtra,India,2024-08-23
+CUST00085,Ananya Singh,Female,Indore,Madhya Pradesh,India,2025-06-12
+CUST00086,Kabir Verma,Male,Mumbai,Maharashtra,India,2024-07-19
+CUST00087,Pooja Mishra,Female,Nagpur,Maharashtra,India,2024-06-19
+CUST00088,Nisha Reddy,Male,Lucknow,Uttar Pradesh,India,2024-02-29
+CUST00089,Aisha Patel,Female,Lucknow,Uttar Pradesh,India,2025-03-04
+CUST00090,Priya Desai,Female,Kochi,Kerala,India,2025-11-18
+CUST00091,Kabir Verma,Male,Bhubaneswar,Odisha,India,2026-04-23
+CUST00092,Meera Kulkarni,Male,Coimbatore,Tamil Nadu,India,2024-04-28
+CUST00093,Nisha Joshi,Male,Chennai,Tamil Nadu,India,2024-01-15
+CUST00094,Meera Khan,Male,Bengaluru,Karnataka,India,2025-08-19
+CUST00095,Kabir Patel,Male,Surat,Gujarat,India,2024-10-27
+CUST00096,Vikram Verma,Male,Jaipur,Rajasthan,India,2024-09-27
+CUST00097,Pooja Desai,Female,Surat,Gujarat,India,2024-11-15
+CUST00098,Nisha Sharma,Male,Hyderabad,Telangana,India,2024-05-24
+CUST00099,Kabir Khan,Male,Lucknow,Uttar Pradesh,India,2024-08-20
+CUST00100,Vihaan Sharma,Female,Hyderabad,Telangana,India,2025-06-23
+CUST00101,Aarav Nair,Female,Kolkata,West Bengal,India,2024-02-03
+CUST00102,Rohan Desai,Male,Bhubaneswar,Odisha,India,2025-08-28
+CUST00103,Ishaan Reddy,Female,Jaipur,Rajasthan,India,2024-04-08
+CUST00104,Sneha Iyer,Male,Lucknow,Uttar Pradesh,India,2025-09-22
+CUST00105,Aditya Mishra,Female,Surat,Gujarat,India,2025-09-11
+CUST00106,Aisha Sharma,Male,Bhopal,Madhya Pradesh,India,2025-01-22
+CUST00107,Kavya Verma,Male,Coimbatore,Tamil Nadu,India,2025-12-14
+CUST00108,Nisha Sharma,Male,Jaipur,Rajasthan,India,2024-05-16
+CUST00109,Rahul Sharma,Male,Indore,Madhya Pradesh,India,2024-02-27
+CUST00110,Isha Gupta,Male,Delhi,Delhi,India,2024-02-26
+CUST00111,Rohan Joshi,Female,Hyderabad,Telangana,India,2024-03-30
+CUST00112,Vihaan Joshi,Female,Bhubaneswar,Odisha,India,2025-09-27
+CUST00113,Aditya Reddy,Male,Lucknow,Uttar Pradesh,India,2025-04-22
+CUST00114,Aisha Nair,Female,Hyderabad,Telangana,India,2025-01-02
+CUST00115,Meera Gupta,Female,Hyderabad,Telangana,India,2025-12-20
+CUST00116,Meera Mishra,Male,Hyderabad,Telangana,India,2025-05-06
+CUST00117,Priya Gupta,Male,Coimbatore,Tamil Nadu,India,2025-08-24
+CUST00118,Arjun Mehta,Female,Hyderabad,Telangana,India,2025-11-11
+CUST00119,Isha Kulkarni,Male,Kochi,Kerala,India,2024-02-12
+CUST00120,Aarav Iyer,Male,Hyderabad,Telangana,India,2026-04-06
+CUST00121,Aisha Joshi,Male,Mumbai,Maharashtra,India,2025-03-15
+CUST00122,Vihaan Patel,Female,Chennai,Tamil Nadu,India,2025-08-31
+CUST00123,Aisha Joshi,Male,Mysuru,Karnataka,India,2024-09-30
+CUST00124,Rohan Mishra,Male,Mumbai,Maharashtra,India,2026-02-21
+CUST00125,Isha Khan,Female,Jaipur,Rajasthan,India,2026-03-22
+CUST00126,Arjun Kulkarni,Female,Bhubaneswar,Odisha,India,2024-01-28
+CUST00127,Pooja Iyer,Male,Coimbatore,Tamil Nadu,India,2026-01-25
+CUST00128,Aarav Mehta,Male,Hyderabad,Telangana,India,2024-10-08
+CUST00129,Ishaan Iyer,Male,Mysuru,Karnataka,India,2025-08-04
+CUST00130,Meera Mehta,Female,Kochi,Kerala,India,2024-06-28
+CUST00131,Rohan Gupta,Female,Bhopal,Madhya Pradesh,India,2025-11-21
+CUST00132,Isha Sharma,Female,Hyderabad,Telangana,India,2024-12-18
+CUST00133,Priya Reddy,Female,Bengaluru,Karnataka,India,2026-05-12
+CUST00134,Aisha Gupta,Male,Bhopal,Madhya Pradesh,India,2024-06-08
+CUST00135,Priya Sharma,Female,Bhopal,Madhya Pradesh,India,2024-07-30
+CUST00136,Aditya Joshi,Male,Indore,Madhya Pradesh,India,2024-02-07
+CUST00137,Neha Gupta,Male,Coimbatore,Tamil Nadu,India,2024-09-19
+CUST00138,Isha Mehta,Female,Kolkata,West Bengal,India,2024-10-29
+CUST00139,Kavya Mehta,Male,Bhubaneswar,Odisha,India,2026-04-27
+CUST00140,Pooja Gupta,Male,Pune,Maharashtra,India,2025-06-23
+CUST00141,Priya Mehta,Male,Nagpur,Maharashtra,India,2026-03-12
+CUST00142,Ishaan Iyer,Female,Bhubaneswar,Odisha,India,2024-06-25
+CUST00143,Neha Gupta,Male,Pune,Maharashtra,India,2026-05-03
+CUST00144,Karan Desai,Female,Jaipur,Rajasthan,India,2024-03-18
+CUST00145,Pooja Nair,Male,Hyderabad,Telangana,India,2025-08-02
+CUST00146,Rahul Patel,Female,Ahmedabad,Gujarat,India,2025-12-17
+CUST00147,Sneha Shah,Male,Bhubaneswar,Odisha,India,2024-08-16
+CUST00148,Rahul Nair,Male,Pune,Maharashtra,India,2024-02-05
+CUST00149,Kavya Desai,Female,Delhi,Delhi,India,2024-07-21
+CUST00150,Aditya Mehta,Male,Delhi,Delhi,India,2024-06-28
